@@ -13,7 +13,7 @@ O usuário irá selecionar um nome e será levado para uma página que contém v
 
 
 Membros da equipe:
-Sidarta Varela - Desenvolvedor
+Sidarta Varela - Gerente do projeto
 Wilson Filho - Gerente de Desenvolvimento
 Devisson Barbosa - Desenvolvedor
 Tiago Costa - Desenvolvedor
